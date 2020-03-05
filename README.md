@@ -2,6 +2,8 @@ This was an experiment and I no longer think bayes rule is the right way. GRU an
 
 <img src="https://github.com/benrayfield/BayesianCortex/blob/master/data/bayesiancortex/pic/v0.1.5.jpg?raw=true"/>
 
+Version 0.1.5 decays bayesian weights toward mostly prediction of each child based on the other 2 childs, for each of 3 childs. The hard-coded brainwave is barely seen and an imagined brainwave crawls like an inchworm, stretching its green center which matches the green hard-coded brainwave. This appears to be the result of a kind of physics in the equations of how brainwaves flow and stretch. Its starting to look like an artificial intelligence's dream, but we won't get into that much until many people connect to eachother through it on the Internet.
+
 A paint program where the canvas is the visual cortex of a simple kind of artificial intelligence. You paint with the mouse into its dreams and it responds by changing what you painted gradually. There will also be an API for using it with other programs as a general high-dimensional space. Each pixel's brightness is its own dimension. Bayesian nodes have exactly 3 childs because that is all thats needed to do NAND in a fuzzy way as Bayes' Rule which is NAND at certain extremes. NAND can be used to create any logical system. In this early version, I'm still working on edge detection and its understanding of the same shapes at different brightnesses. This will be a module of the bigger Human AI Net project and will be used for adding realtime intuitive high dimensional intelligence in audio and visual interactions with the user.
 
 Features
