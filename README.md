@@ -1,5 +1,7 @@
 This was an experiment and I no longer think bayes rule is the right way. GRU and LSTM and RBM neuralnets combined with some variety of computing theory (such as lambdas in occamsfuncer or neural turing machine with sparse memory, etc) are better. But this is still interesting to play with.
 
+<img src="https://github.com/benrayfield/BayesianCortex/blob/master/data/bayesiancortex/pic/v0.1.5.jpg?raw=true"/>
+
 A paint program where the canvas is the visual cortex of a simple kind of artificial intelligence. You paint with the mouse into its dreams and it responds by changing what you painted gradually. There will also be an API for using it with other programs as a general high-dimensional space. Each pixel's brightness is its own dimension. Bayesian nodes have exactly 3 childs because that is all thats needed to do NAND in a fuzzy way as Bayes' Rule which is NAND at certain extremes. NAND can be used to create any logical system. In this early version, I'm still working on edge detection and its understanding of the same shapes at different brightnesses. This will be a module of the bigger Human AI Net project and will be used for adding realtime intuitive high dimensional intelligence in audio and visual interactions with the user.
 
 Features
